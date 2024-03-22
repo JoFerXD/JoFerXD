@@ -8,7 +8,7 @@ Escribir sobre nosotros....
 
 Hacer el cierre de presentación, invitando a contactar...
 
-## lenguages 
+## Languages 
 - English
 - Spanish
 - Portugese
